@@ -7,9 +7,6 @@ Clone onto your laptop:
 
     git clone git://github.com/thoughtbot/dotfiles.git ~/dotfiles
 
-(Or, [fork and keep your fork
-updated](http://robots.thoughtbot.com/keeping-a-github-fork-updated)).
-
 Install [rcm](https://github.com/thoughtbot/rcm):
 
     brew tap thoughtbot/formulae
